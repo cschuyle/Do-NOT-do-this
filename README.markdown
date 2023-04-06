@@ -1,6 +1,8 @@
 ## Things I shouldn't have done
 
-Shaludn't'a' used mixed case as the repo title. Shame on me.
+Shouldn't'a' left the default comment when editing the README in the Github UI.
+
+Shouldn't'a' used mixed case as the repo title. Shame on me.
 
 Shouldn't'a' used the GPL, for starters. Companies will be terrified of this repo.  **BOO!**
 
