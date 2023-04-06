@@ -1,5 +1,7 @@
 ## Things I shouldn't have done
 
+Shaludn't'a' used mixed case as the repo title. Shame on me.
+
 Shouldn't'a' used the GPL, for starters. Companies will be terrified of this repo.  **BOO!**
 
 Shouldn't'a' made the first header level 2 in the README. Whay not just be normal instead of clever?
