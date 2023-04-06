@@ -15,3 +15,7 @@ Shouldn't'a' used `.markdown` suffix for the README file. THat's just weird. Une
 Shouldn't'a' put the README in the root commit. If the root commit is totally empty, it's slightly easier to rebase all the way down to your first commit with any content in it.
 
 Shouldn't'a' unprotected the `main` branch (from force pushes and whatnot).
+
+Shouldn't'a' made the default branch be other than `main`, for no reason.
+
+Shouldn't'a' forgot to check `Automatically delete head branches` in Settings.
