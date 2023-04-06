@@ -1,0 +1,13 @@
+## Things I shouldn't have done
+
+Shouldn't'a' used the GPL, for starters. Companies will be terrified of this repo.  **BOO!**
+
+Shouldn't'a' made the first header level 2 in the README. Whay not just be normal instead of clever?
+
+Shouldn't'a' written Shouldn't'a' in this way. Three ''s in a word is asking for trouble.
+
+Shouldn't'a' used `.markdown` suffix for the README file. THat's just weird. Unexpected.
+
+Shouldn't'a' put the README in the root commit. If the root commit is totally empty, it's slightly easier to rebase all the way down to your first commit with any content in it.
+
+Shouldn't'a' unprotected the `main` branch (from force pushes and whatnot).
