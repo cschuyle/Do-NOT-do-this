@@ -6,7 +6,7 @@ Shouldn't'a' used mixed case as the repo title. Shame on me.
 
 Shouldn't'a' used the GPL, for starters. Companies will be terrified of this repo.  **BOO!**
 
-Shouldn't'a' made the first header level 2 in the README. Whay not just be normal instead of clever?
+Shouldn't'a' made the first header level 2 in the README. Why not just be normal instead of clever?
 
 Shouldn't'a' written Shouldn't'a' in this way. Three ''s in a word is asking for trouble.
 
@@ -19,3 +19,9 @@ Shouldn't'a' unprotected the `main` branch (from force pushes and whatnot).
 Shouldn't'a' made the default branch be other than `main`, for no reason.
 
 Shouldn't'a' forgot to check `Automatically delete head branches` in Settings.
+
+Shouldn't'a' waited even this short period of time to put a .gitignore file
+
+Shouldn't'a' left all that trash in the <.gitignore> file
+
+Shouldn't'a' force-pushed just now (3nd time! The first 2 times are lost to time)
